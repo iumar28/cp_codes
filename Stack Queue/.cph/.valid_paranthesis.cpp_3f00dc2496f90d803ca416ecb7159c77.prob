@@ -1,0 +1,1 @@
+{"name":"Local: valid_paranthesis","url":"c:\\Users\\Golu\\Dropbox\\PC\\Documents\\FINAL450\\Stack Queue\\valid_paranthesis.cpp","tests":[{"id":1645166889838,"input":"()[]{}","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Golu\\Dropbox\\PC\\Documents\\FINAL450\\Stack Queue\\valid_paranthesis.cpp","group":"local","local":true}

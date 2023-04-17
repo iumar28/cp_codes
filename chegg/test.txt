@@ -1,0 +1,1 @@
+File streams opened in binary mode perform input and output operations independently of any format considerations. Non-binary files are known as text files

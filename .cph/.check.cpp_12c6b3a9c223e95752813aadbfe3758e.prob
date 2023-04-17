@@ -1,0 +1,1 @@
+{"name":"Local: check","url":"c:\\Users\\Golu\\Dropbox\\PC\\Documents\\Codeforces\\check.cpp","tests":[{"id":1646741434969,"input":"4\n7\n11\n240\n17179869184","output":"2\n3\n4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Golu\\Dropbox\\PC\\Documents\\Codeforces\\check.cpp","group":"local","local":true}
